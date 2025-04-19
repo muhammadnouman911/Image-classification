@@ -59,5 +59,20 @@ Dataset/
 
 3. Run all cells to train and evaluate the model.
 
+## 🛠️ Future Improvements
 
+- Use Transfer Learning (e.g., VGG16, ResNet)
+- Add data augmentation
+- Improve accuracy and reduce overfitting
+- Deploy as a Streamlit or Flask web app
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 🙌 Acknowledgments
+
+Thanks to all open-source contributors and dataset providers who make this possible.
+
+---
 
