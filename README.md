@@ -44,4 +44,20 @@ Dataset/
 
 > Note: You can use your own dataset or re-add the previously removed one.
 
+## 🚀 How to Run
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/muhammadnouman911/Image-classification.git
+   cd Image-classification
+   ```
+
+2. Launch the Jupyter Notebook:
+   ```bash
+   jupyter notebook convolutional_neural_network.ipynb
+   ```
+
+3. Run all cells to train and evaluate the model.
+
+
 
